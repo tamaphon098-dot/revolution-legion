@@ -1,0 +1,16 @@
+{
+ "name": "REVOLUTION LEGION",
+ "short_name": "REV LEGION",
+ "start_url": ".",
+ "display": "fullscreen",
+ "orientation": "portrait",
+ "background_color": "#0a0716",
+ "theme_color": "#0a0716",
+ "icons": [
+  {
+   "src": "assets/icon_app.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
